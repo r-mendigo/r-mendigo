@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Ramir 👋
 
-<!--
-**r-mendigo/r-mendigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Operations & Administrative Support Specialist** with over **10 years of experience** helping businesses improve operations, streamline workflows, and make better decisions through organized systems and meaningful data.
 
-Here are some ideas to get you started:
+My professional background includes operations supervision, project coordination, business reporting, administrative support, and process improvement. I enjoy combining business experience with technology to build practical solutions that increase productivity and efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Professional Expertise
+
+- Operations Management
+- Administrative Support
+- Project Coordination
+- Business Operations
+- Process Improvement
+- Business Reporting
+- Microsoft Excel
+- Power BI
+- SQL
+- Data Analysis
+
+---
+
+## 🚀 Current Projects
+
+### 🌱 NutriMind
+An AI-powered nutrition and study companion designed to simplify healthy living and learning.
+
+### 🌱 NutriFinance
+A personal finance application focused on budgeting, financial awareness, and productivity.
+
+---
+
+## 📚 Currently Learning
+
+- AI Productivity Workflows
+- Business Analytics
+- Process Automation
+- Python for Business Applications
+
+---
+
+## 🎯 My Goal
+
+To help businesses become more organized, efficient, and data-driven by combining operational experience with modern technology.
+
+---
+
+> **Small, consistent improvements create extraordinary results.**
